@@ -1,6 +1,6 @@
 /**
   * Author: Matthew Hotz
-  * Date: 2019/08/29
+  * Date: 2019/09/02
   *
   * A simple hello world program in C
   *
@@ -8,7 +8,7 @@
 
 printf("Matthew Hotz\n");
 
-printf("MechE\n");
+printf("Mechanical Engineering\n");
 
 return0;
 }
