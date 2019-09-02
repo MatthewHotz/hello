@@ -10,5 +10,9 @@ printf("Matthew Hotz\n");
 
 printf("Mechanical Engineering\n");
 
+printf("Cory Curtis\n");
+
+printf("Computer Engineering\n");
+
 return0;
 }
